@@ -5,6 +5,7 @@ Created on Mon Nov 18 23:15:22 2019
 @author: mankup
 """
 
+!pip install -q -U tensorflow>=1.8.0
 import pandas as pd
 import tensorflow as tf
 import numpy as np
